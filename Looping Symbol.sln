@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Looping Symbol", "Looping Symbol.vbproj", "{56C04E2E-4435-477D-B778-DB825C730ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56C04E2E-4435-477D-B778-DB825C730ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C04E2E-4435-477D-B778-DB825C730ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C04E2E-4435-477D-B778-DB825C730ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C04E2E-4435-477D-B778-DB825C730ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A4AF78-4E5F-4EA9-AB28-E84A5763243D}
+	EndGlobalSection
+EndGlobal
